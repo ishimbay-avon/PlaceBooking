@@ -7,7 +7,7 @@ PlaceBooking -  API для бронирования места на меропр
 | Категория      | Технологии                           |
 |----------------|--------------------------------------|
 | Бэкенд         | Node.js, Express, TypeScript         |
-| Базы данных    | PostgreSQL, TypeORM                  |
+| База данных    | PostgreSQL, TypeORM                  |
 | Инструменты    | Postman, pgAdmin 4                   |
 
 
@@ -40,6 +40,8 @@ npm install
 2. Установите PostgreSQL с официального сайта https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 Во время установки задайте пароль postgres для пользователя postgres (по-умолчанию)
+
+Перейдите в терминале к исполняемому файлу PostgeSQL (например, C:\Program Files\PostgreSQL\18\bin)
 
 Выполните в терминале команду подключения в psql:
 ```
